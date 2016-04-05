@@ -1,5 +1,5 @@
 # Shopping-Cart
-Used a Tree Map data structure to store information of individual orders. 
+Used a Tree Map data structure to store information of individual's shopping cart.
 
 This project uses a Map interface that references a TreeMap instance in order to build a shopping cart program. Two files are given, an orders file that tells what items are in each person’s cart, and an items file that lists products being sold with its price. These two files are inputted through the command line when the program is running, and will be scanned through the Scanner class. The information is then stored into the TreeMap accordingly. The product names are the keys that maps to its price, and the shopper’s name is the key to an ArrayList that stores their carted products. The output displays all the activities that are given in the orders file, such as adding and deleting items from the cart, displaying all the items in their cart, and calculating the total cost of their purchases.
 
