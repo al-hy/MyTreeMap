@@ -1,7 +1,3 @@
-//Adrian Hy
-//CS 241
-//Project #1
-
 
 import java.util.TreeMap;
 import java.util.Map;
